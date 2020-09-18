@@ -4,7 +4,7 @@ Lesen von EnOcean Telegrammen via "elemt14 EnOcean Pi 868" Modul
 //Compile: clear; rm -frv enocean_telegrams; g++ -g -fPIC -Wall enocean_telegrams.cpp -o enocean_telegrams; date;
 
 
-//Fork: https://github.com/hfunke/EnOceanSpy/blob/master/EnOceanSpy.c
+//Forked from: https://github.com/hfunke/EnOceanSpy/blob/master/EnOceanSpy.c
 
 
 //Info: https://www.cmrr.umn.edu/~strupp/serial.html
